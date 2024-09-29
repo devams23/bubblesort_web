@@ -1,0 +1,17 @@
+.formcont{
+    border: 1px solid black;
+    /* display: flex ;
+    justify-content: center; */
+}
+.barcont{
+    display: flex;
+}
+.barcont div{
+    display: flex;
+    align-items: center;
+    background-color: #a3887c;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+
+}
